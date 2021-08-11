@@ -1,0 +1,9 @@
+lux	0
+diwash	4
+jerry	0
+lipika	0
+ram	6
+hello	0
+mom	0
+dora	0
+hat	0
